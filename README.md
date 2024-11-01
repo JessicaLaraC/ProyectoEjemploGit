@@ -42,7 +42,7 @@ Para ejecutar el programa `HolaMundo.py`, sigue estos pasos:
    
    ```
    git remote add origin https://github.com/JessicaLaraC/ProyectoEjemploGit.git
-   git push -u origin master
+   git push -u origin main
     ```
 
 ## Notas sobre el archivo `.gitignore`
